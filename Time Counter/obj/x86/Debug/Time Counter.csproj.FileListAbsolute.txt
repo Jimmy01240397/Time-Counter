@@ -1,0 +1,38 @@
+C:\Users\user\Desktop\Time Counter\Time Counter\bin\Debug\Time Counter.exe
+C:\Users\user\Desktop\Time Counter\Time Counter\bin\Debug\Time Counter.pdb
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\Time Counter.exe
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\Time Counter.pdb
+F:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.exe
+F:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.pdb
+F:\C語言編輯器\新文件\Time Counter\Time Counter\bin\Debug\Time Counter.exe
+F:\C語言編輯器\新文件\Time Counter\Time Counter\bin\Debug\Time Counter.pdb
+F:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.GenerateResource.Cache
+K:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.exe
+K:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.pdb
+K:\C語言編輯器\新文件\Time Counter\Time Counter\bin\Debug\Time Counter.exe
+K:\C語言編輯器\新文件\Time Counter\Time Counter\bin\Debug\Time Counter.pdb
+K:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+K:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.GenerateResource.Cache
+K:\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.ResolveComReference.cache
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.ResolveComReference.cache
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.exe
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.pdb
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\bin\Debug\Time Counter.exe
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\bin\Debug\Time Counter.pdb
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.ResolveComReference.cache
+G:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.exe
+G:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.pdb
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csprojResolveAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Time Counter.csproj.GenerateResource.Cache
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Interop.MediaPlayer.dll
+F:\資料\C語言編輯器\新文件\Time Counter\Time Counter\obj\x86\Debug\Interop.WMPLib.dll
